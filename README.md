@@ -7,7 +7,7 @@
 
 ## Instructions
 
-
+Click [Here to Play](http://htmlpreview.github.io/?https://github.com/DamionRWilson/ConcentrationClone/blob/master/index.html)
 
 ## Contributing
 
