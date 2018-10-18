@@ -104,7 +104,7 @@ let myTime = 0;
 							//check if you won
 							setTimeout(function win () {
 								if (matched == 16) {
-									window.alert(`Congratulations, you won!\nStar Rating: ${starnum}\nYou played for ${time} seconds\nClick "Okay" to play again!`)
+									window.alert(`Congratulations, you won!\nStar Rating: ${starnum}\nYou played for ${time} seconds\nClick "OK" to play again!`)
 									initiate();
 								};
 							 }, 1);
